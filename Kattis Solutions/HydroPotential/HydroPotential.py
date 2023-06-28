@@ -1,0 +1,10 @@
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+E = int(input())
+F = int(input())
+
+print(A*10*B)
+print(C*10*D)
+print(E*10*F)
